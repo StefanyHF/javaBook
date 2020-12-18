@@ -3,6 +3,7 @@ package exercisesChapter5;
 public class MixFor5_Page121 {
 
     public static void main(String[] args) {
+
         int x = 0;
         int y = 30;
         for(int outer = 0; outer < 3; outer++){
