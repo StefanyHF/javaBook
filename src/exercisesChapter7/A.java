@@ -1,6 +1,6 @@
 package exercisesChapter7;
 
-class A_Page192 {
+class A {
     int ivar = 7 ;
     void m1(){
         System.out.println("A's m1, ");
